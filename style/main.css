@@ -909,21 +909,8 @@ body.red-theme .container {
   padding: 80px 0;
 }
 
-
 body.red-theme .game-container {
-  background-color: #eb7a7a;
-}
-
-body.red-theme .tile {
-  background-color: #ffcccc;
-  color: #441a1a;
-}
-body.red-theme .container {
-  padding: 80px 0;
-}
-
-body.red-theme .game-container {
-  background-color: #f02020;
+  background-color: #830f0f;
 }
 
 body.red-theme .tile {
@@ -958,7 +945,7 @@ body.red-theme .tile.tile-32 .tile-inner {
 }
 
 body.red-theme .tile.tile-64 .tile-inner {
-  background: #de7c7c;
+  background: #ff3e3e;
   color: #ffffff;
 }
 
@@ -1003,9 +990,8 @@ body.purple-theme .container {
   padding: 80px 0;
 }
 
-
 body.purple-theme .game-container {
-  background-color: #e1b3ff;
+  background-color: #5e0997;
 }
 
 body.purple-theme .tile {
@@ -1014,15 +1000,6 @@ body.purple-theme .tile {
 }
 body.purple-theme .container {
   padding: 80px 0;
-}
-
-body.purple-theme .game-container {
-  background-color: #b520f0;
-}
-
-body.purple-theme .tile {
-  background-color: #f3ccff;
-  color: #2f1a44;
 }
 
 body.purple-theme .tile.tile-2 .tile-inner {
@@ -1034,7 +1011,6 @@ body.purple-theme .tile.tile-4 .tile-inner {
   background: #ddc8eb;
   color: #2f1a44;
 }
-
 
 body.purple-theme .tile.tile-8 .tile-inner {
   background: #f0c2ff;
